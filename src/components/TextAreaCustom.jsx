@@ -6,6 +6,8 @@ class TextAreaCustom extends Component {
         return (
             <div>
                 < textarea>  </textarea>
+                < textarea>  </textarea>
+                < textarea>  </textarea>
             </div>
         )
     }
